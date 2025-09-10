@@ -1,0 +1,6 @@
+﻿# Tips:
+# 1) GÃ©nÃ©ration Win32:
+#    cmake -S . -B build -A Win32 -DCWSKD_ROOT=""C:\dev\cwsdk-alpha"" -DCUBEWORLD_DIR=""""
+# 2) Build:
+#    cmake --build build --config Release
+# 3) Le .dll sera dans build\RecruitMod\Release\RecruitMod.dll
